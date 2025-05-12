@@ -1,0 +1,11 @@
+"use strict";
+let str1 = "Hello World";
+let str2 = `Hello World`;
+let userName = "Tarun";
+let age = 18;
+const num = 100;
+const numConvert = num.toString();
+const numConvert2 = "" + num;
+const boolValue = true;
+const boolConvert = "" + boolValue;
+const boolConvert2 = boolValue.toString();
