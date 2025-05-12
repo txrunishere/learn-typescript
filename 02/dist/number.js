@@ -1,0 +1,15 @@
+"use strict";
+let num_type = 69;
+let a = 10;
+let b = 20;
+let s = "30";
+let c = a + b;
+let binaryNum = 0b1010;
+let octalNum = 0o12;
+let decimalNum = 10;
+let hexNum = 0xA;
+const value1 = 10;
+const value2 = "30";
+const value2Converted = +value2;
+let item = 10;
+item = 30;
